@@ -1,0 +1,23 @@
+
+.container .grid {
+    display:grid;
+    grid-template-columns: 50% 50%;
+    gap: 20px;
+    text-align: center;
+}
+.content{
+    background-color:rgb(199, 236, 224);
+    border-radius: 20px;
+    height: 200px;
+}
+.container .grid .content h3 {
+    color: rgb(221, 133, 2);
+}
+.container h3{
+    text-align: center;
+    color: rgb(221, 133, 2);
+}
+hr {
+    color: rgb(221, 133, 2);
+}
+
